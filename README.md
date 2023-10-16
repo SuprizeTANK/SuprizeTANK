@@ -21,7 +21,7 @@
 <br>
 
 
-#### Workstation Tools:
+### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
@@ -32,7 +32,7 @@
 
 
 
-## Contacts:
+### Contacts:
 
 <div> 
 <a href="https://www.instagram.com/diego__drg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
